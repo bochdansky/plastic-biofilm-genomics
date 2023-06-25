@@ -1,4 +1,6 @@
 # plastic-biofilm-genomics
+Plublication: Joern.....
+
 2.1. Sample incubation setting
 The fieldis study occurred was conductedwithin the Lafayette River (Fig 1a),  a tidal tributary of the southern Chesapeake Bay located within Norfolk, Virginia, USA (Fig 1b). The Chesapeake Bay ecosystem is supported by a diverse assemblage of diatoms throughout the year, as well as chlorophytes, cyanobacteria, cryptophytes, and dinoflagellates (Marshall et al., 2005). In situ incubations occurred around the middle of the Lafayette River (36°52’46”N 76°16’08”W), and in vitro incubations within using Lafayette River water in our lab at ODU (Fig 1a). 
 
