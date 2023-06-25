@@ -1,0 +1,9 @@
+2596	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium boydii
+149	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Unknown	Unknown	Unknown
+315	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Fomitopsis	Fomitopsis pinicola
+13942	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor
+20	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Unknown
+33000	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+2080	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Unknown
+26	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium sp
+5138	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Unknown	Unknown

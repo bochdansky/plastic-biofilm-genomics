@@ -1,0 +1,264 @@
+19	Plantae	Chlorophyta	Trebouxiophyceae	Microthamniales	Unclassified	Trebouxia	Unknown
+3	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Stephanodiscaceae	Cyclotella	Cyclotella meneghiniana
+2	Plantae	Streptophyta	Unclassified	Unknown	Unknown	Unknown	Unknown
+1	Bacteria	Proteobacteria	Gammaproteobacteria	Unknown	Unknown	Unknown	Unknown
+12	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytriomycetaceae	Rhizoclosmatium	Rhizoclosmatium sp
+8	Fungi	Basidiomycota	Agaricostilbomycetes	Unclassified	Unclassified	Unknown	Unknown
+438	Eukaryota	Bacillariophyta	Bacillariophyceae	Unknown	Unknown	Unknown	Unknown
+7	Eukaryota	Unclassified	Oomycetes	Saprolegniales	Saprolegniaceae	Aphanomyces	Unknown
+35	Eukaryota	Unclassified	Unclassified	Unclassified	Heterophryidae	Chlamydaster	Chlamydaster sterni
+2958	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Peridiniaceae	Kryptoperidinium	Kryptoperidinium foliaceum
+3	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Unknown	Unknown
+2	Fungi	Basidiomycota	Agaricomycetes	Phallales	Unknown	Unknown	Unknown
+316	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Unknown	Unknown	Unknown
+20	Eukaryota	Unclassified	Unclassified	Thaumatomonadida	Thaumatomastigidae	Protaspis	Protaspis sp
+16	Eukaryota	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+141	Eukaryota	Unclassified	Chrysophyceae	Chromulinales	Unknown	Unknown	Unknown
+49	Eukaryota	Unclassified	Unclassified	Telonemida	Unclassified	Telonema	Telonema subtile
+325	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Unknown	Unknown
+7	Eukaryota	Unclassified	Litostomatea	Haptorida	Lacrymariidae	Unclassified	Unclassified
+852	Eukaryota	Bacillariophyta	Unknown	Unknown	Unknown	Unknown	Unknown
+492	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Aplanochytrium	Unknown
+3	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Mychonastaceae	Mychonastes	Mychonastes sp
+17	Eukaryota	Unclassified	Chrysophyceae	Chromulinales	Chromulinaceae	Uroglena	Uroglena sp
+200	Eukaryota	Unclassified	Unclassified	Unknown	Unknown	Unknown	Unknown
+3	Fungi	Ascomycota	Unknown	Unknown	Unknown	Unknown	Unknown
+2	Eukaryota	Unclassified	Spirotrichea	Sporadotrichida	Unknown	Unknown	Unknown
+1849	Eukaryota	Unclassified	Chrysophyceae	Chromulinales	Paraphysomonadaceae	Paraphysomonas	Unknown
+15	Eukaryota	Unclassified	Chrysophyceae	Unknown	Unknown	Unknown	Unknown
+2	Fungi	Unclassified	Unclassified	Mucorales	Mucoraceae	Mucor	Unknown
+153	Eukaryota	Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Cylindrotheca	Cylindrotheca closterium
+2	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas	Aeromonas hydrophila
+162	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Unknown	Unknown	Unknown	Unknown
+1	Fungi	Unclassified	Unclassified	Mucorales	Mucoraceae	Mucor	Mucor racemosus
+173	Eukaryota	Unclassified	Katablepharidophyta	Unclassified	Katablepharidaceae	Katablepharis	Katablepharis sp
+1442	Eukaryota	Bacillariophyta	Fragilariophyceae	Unknown	Unknown	Unknown	Unknown
+2	Eukaryota	Unclassified	Unclassified	Unclassified	Apusomonadidae	Amastigomonas	Amastigomonas mutabilis
+9	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Unclassified	Unclassified	Unclassified
+92	Fungi	Chytridiomycota	Chytridiomycetes	Lobulomycetales	Lobulomycetaceae	Clydaea	Clydaea vesicula
+3	Eukaryota	Apicomplexa	Gregarinasina	Eugregarinorida	Monocystidae	Monocystis	Monocystis agilis
+11	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Nannochloris	Nannochloris sp
+38	Plantae	Chlorophyta	Ulvophyceae	Acrosiphoniales	Unclassified	Chlorothrix	Chlorothrix sp
+62	Fungi	Basidiomycota	Microbotryomycetes	Unknown	Unknown	Unknown	Unknown
+5	Eukaryota	Unclassified	Unclassified	Euglyphida	Paulinellidae	Paulinella	Paulinella chromatophora
+11	Animalia	Arthropoda	Maxillopoda	Sessilia	Balanidae	Balanus	Balanus sp
+261	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Unknown
+1	Eukaryota	Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Nitzschia	Unknown
+3	Eukaryota	Unclassified	Unclassified	Kinetoplastida	Trypanosomatidae	Trypanosoma	Unknown
+37	Eukaryota	Unclassified	Unclassified	Choanoflagellida	Codonosigidae	Monosiga	Monosiga brevicollis
+9	Eukaryota	Unclassified	Cryptophyta	Pyrenomonadales	Chroomonadaceae	Chroomonas	Chroomonas sp
+3	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Herpotrichiellaceae	Exophiala	Exophiala sp
+3	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales	Unclassified	Zygorhizidium	Zygorhizidium planktonicum
+31	Fungi	Chytridiomycota	Unknown	Unknown	Unknown	Unknown	Unknown
+213	Eukaryota	Unclassified	Spirotrichea	Stichotrichida	Spirofilidae	Stichotricha	Stichotricha aculeata
+31	Bacteria	Proteobacteria	Alphaproteobacteria	Unclassified	Unclassified	Unclassified	Unclassified
+59	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Labyrinthulaceae	Labyrinthula	Labyrinthula sp
+2	Eukaryota	Xanthophyceae	Unclassified	Tribonematales	Xanthonemataceae	Xanthonema	Unknown
+104	Eukaryota	Unclassified	Unclassified	Unclassified	Hartmannellidae	Nolandella	Unknown
+238	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Saccharomycetaceae	Saccharomyces	Saccharomyces cerevisiae
+26	Fungi	Chytridiomycota	Chytridiomycetes	Lobulomycetales	Lobulomycetaceae	Unknown	Unknown
+13	Eukaryota	Bacillariophyta	Bacillariophyceae	Thalassiophysales	Catenulaceae	Amphora	Unknown
+23	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Sporobolomyces	Unknown
+3	Eukaryota	Unclassified	Cryptophyta	Pyrenomonadales	Chroomonadaceae	Chroomonas	Chroomonas vectensis
+20	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella sp
+196	Eukaryota	Unclassified	Dictyochophyceae	Pedinellales	Unclassified	Pteridomonas	Pteridomonas danica
+285	Plantae	Chlorophyta	Chlorodendrophyceae	Chlorodendrales	Chlorodendraceae	Tetraselmis	Unknown
+658	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Oblongichytrium	Oblongichytrium sp
+5	Eukaryota	Unclassified	Unclassified	Stemonitida	Stemonitidae	Lamproderma	Lamproderma sp
+36	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Mycosphaerella	Mycosphaerella sp
+2	Plantae	Chlorophyta	Trebouxiophyceae	Unclassified	Unclassified	Picochlorum	Unknown
+2	Eukaryota	Unclassified	Dinophyceae	Prorocentrales	Prorocentraceae	Prorocentrum	Unknown
+4	Eukaryota	Unclassified	Oligohymenophorea	Unclassified	Unknown	Unknown	Unknown
+1	Eukaryota	Bacillariophyta	Fragilariophyceae	Fragilariales	Fragilariaceae	Diatoma	Unknown
+8	Eukaryota	Unclassified	Spirotrichea	Unclassified	Strombidiidae	Strombidium	Strombidium basimorphum
+36	Eukaryota	Unclassified	Litostomatea	Pleurostomatida	Litonotidae	Loxophyllum	Loxophyllum sp
+357	Eukaryota	Unclassified	Unclassified	Cercomonadida	Cercomonadidae	Cercomonas	Cercomonas braziliensis
+2	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Cryptococcus	Unknown
+6	Bacteria	Planctomycetes	Planctomycetia	Planctomycetales	Unclassified	Unclassified	Unclassified
+2	Animalia	Chordata	Ascidiacea	Stolidobranchia	Molgulidae	Molgula	Unknown
+18	Plantae	Chlorophyta	Trebouxiophyceae	Chlorellales	Chlorellaceae	Chloroidium	Chloroidium saccharophilum
+2	Eukaryota	Unclassified	Spirotrichea	Unclassified	Unknown	Unknown	Unknown
+51	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Unknown	Unknown
+25	Eukaryota	Unclassified	Unclassified	Perkinsida	Perkinsidae	Unclassified	Unclassified
+205	Eukaryota	Bacillariophyta	Bacillariophyceae	Surirellales	Unclassified	Surirella	Surirella sp
+17316	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+2	Eukaryota	Unclassified	Hyphochytriomycetes	Unclassified	Hyphochytriaceae	Hyphochytrium	Hyphochytrium catenoides
+12	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Unknown	Unknown
+99	Plantae	Chlorophyta	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+133	Eukaryota	Unclassified	Dinophyceae	Gonyaulacales	Amphidomataceae	Azadinium	Unknown
+5	Eukaryota	Unclassified	Ichthyosporea	Ichthyophonida	Unclassified	Unknown	Unknown
+21	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Heterocapsa triquetra
+11	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Thraustochytrium	Thraustochytrium sp
+24	Plantae	Chlorophyta	Chlorophyceae	Chaetophorales	Chaetophoraceae	Dilabifilum	Unknown
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+4	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Rhodotorula	Unknown
+114	Eukaryota	Bacillariophyta	Bacillariophyceae	Bacillariales	Bacillariaceae	Unknown	Unknown
+8	Eukaryota	Unclassified	Spirotrichea	Urostylida	Holostichidae	Neourostylopsis	Neourostylopsis flavicana
+2	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Ogataea	Candida boidinii
+4	Plantae	Chlorophyta	Trebouxiophyceae	Unknown	Unknown	Unknown	Unknown
+4	Eukaryota	Euglenida	Unclassified	Eutreptiales	Unclassified	Eutreptiella	Eutreptiella gymnastica
+39	Eukaryota	Unclassified	Oomycetes	Pythiales	Pythiaceae	Pythium	Unknown
+1059	Eukaryota	Unclassified	Dinophyceae	Unknown	Unknown	Unknown	Unknown
+85	Eukaryota	Unclassified	Unclassified	Thaumatomonadida	Thaumatomastigidae	Unclassified	Unclassified
+2251	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Heterocapsaceae	Heterocapsa	Unknown
+3	Fungi	Basidiomycota	Agaricomycetes	Boletales	Unknown	Unknown	Unknown
+5	Eukaryota	Unclassified	Prostomatea	Prorodontida	Unknown	Unknown	Unknown
+2	Fungi	Basidiomycota	Agaricomycetes	Russulales	Stereaceae	Unknown	Unknown
+459	Eukaryota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+34	Eukaryota	Unclassified	Litostomatea	Pleurostomatida	Unknown	Unknown	Unknown
+30	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium	Novosphingobium sp
+3	Plantae	Chlorophyta	Unclassified	Pyramimonadales	Unclassified	Unknown	Unknown
+4	Eukaryota	Unclassified	Unclassified	Unclassified	Chlamydophryidae	Capsellina	Capsellina sp
+263	Eukaryota	Unclassified	Unclassified	Thaumatomonadida	Thaumatomastigidae	Protaspis	Unknown
+2	Eukaryota	Unclassified	Dinophyceae	Unclassified	Unclassified	Stoeckeria	Unknown
+31	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Unclassified	Derxomyces	Derxomyces mrakii
+7	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Unknown	Unknown
+11	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Thoracosphaeraceae	Scrippsiella	Scrippsiella sp
+2	Eukaryota	Unclassified	Chrysophyceae	Chromulinales	Chromulinaceae	Chrysoxys	Chrysoxys sp
+5	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Unclassified	Unclassified
+2	Plantae	Chlorophyta	Chlorophyceae	Unknown	Unknown	Unknown	Unknown
+9	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Unknown	Unknown	Unknown
+4	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Coriolaceae	Trametes	Trametes versicolor
+21	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Chlamydomonas sp
+140	Animalia	Rotifera	Monogononta	Ploima	Synchaetidae	Synchaeta	Synchaeta pectinata
+8	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Unknown	Unknown
+3	Eukaryota	Unclassified	Spirotrichea	Unknown	Unknown	Unknown	Unknown
+3	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Unclassified	Reyranella	Reyranella sp
+35	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Unknown	Unknown	Unknown
+4	Eukaryota	Unclassified	Dinophyceae	Unclassified	Unclassified	Unknown	Unknown
+5	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces purpureogenus
+9	Plantae	Chlorophyta	Trebouxiophyceae	Unclassified	Unclassified	Myrmecia	Myrmecia sp
+70	Animalia	Rotifera	Monogononta	Ploima	Unknown	Unknown	Unknown
+3	Eukaryota	Unclassified	Unclassified	Cercomonadida	Cercomonadidae	Massisteria	Massisteria marina
+9	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Unknown	Unknown
+157	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Ophiosphaerella	Ophiosphaerella herpotricha
+2	Eukaryota	Unclassified	Colpodea	Sorogenida	Sorogenidae	Sorogena	Sorogena stoianovitchae
+7	Eukaryota	Unclassified	Unclassified	Choanoflagellida	Acanthoecidae	Savillea	Savillea micropora
+8	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Unclassified	Rhodotorula	Rhodotorula mucilaginosa
+29	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Unknown	Unknown	Unknown
+4	Eukaryota	Unclassified	Spirotrichea	Tintinnida	Unknown	Unknown	Unknown
+4	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Chlamydomonas	Unknown
+4	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Sellaphoraceae	Sellaphora	Unknown
+578	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Thraustochytrium	Unknown
+13	Plantae	Chlorophyta	Ulvophyceae	Ulotrichales	Unclassified	Unknown	Unknown
+30	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Chaetocerotales	Chaetocerotaceae	Chaetoceros	Unknown
+2	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Unclassified	Aulacoseiraceae	Aulacoseira	Unknown
+8	Eukaryota	Unclassified	Oligohymenophorea	Hymenostomatida	Unclassified	Unclassified	Unclassified
+20	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Sellaphoraceae	Sellaphora	Sellaphora pupula
+25	Fungi	Chytridiomycota	Chytridiomycetes	Unknown	Unknown	Unknown	Unknown
+274	Eukaryota	Unclassified	Prostomatea	Prorodontida	Placidae	Placus	Placus salinus
+75	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Unknown	Unknown
+4	Eukaryota	Unclassified	Unclassified	Isochrysidales	Isochrysidaceae	Isochrysis	Isochrysis galbana
+5	Animalia	Rotifera	Monogononta	Ploima	Lepadellidae	Lepadella	Lepadella patella
+2	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Trichosporonaceae	Cryptococcus	Cryptococcus flavescens
+529	Bacteria	Proteobacteria	Alphaproteobacteria	Unknown	Unknown	Unknown	Unknown
+14	Eukaryota	Bacillariophyta	Bacillariophyceae	Unclassified	Cymbellaceae	Cymbella	Unknown
+9	Eukaryota	Unclassified	Unclassified	Unclassified	Vexilliferidae	Pseudoparamoeba	Pseudoparamoeba pagei
+41	Eukaryota	Unclassified	Oligohymenophorea	Unclassified	Vaginicolidae	Vaginicola	Vaginicola sp
+7	Eukaryota	Unclassified	Litostomatea	Haptorida	Unknown	Unknown	Unknown
+9	Eukaryota	Unclassified	Unclassified	Unclassified	Unclassified	Gymnophrys	Gymnophrys sp
+17	Eukaryota	Unclassified	Unclassified	Thaumatomonadida	Thaumatomastigidae	Thaumatomastix	Thaumatomastix sp
+9	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Ulvaceae	Ulva	Ulva sp
+5	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Unknown	Unknown	Unknown
+4	Eukaryota	Unclassified	Synurophyceae	Synurales	Mallomonadaceae	Unknown	Unknown
+221	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Unknown
+9	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Unclassified	Unclassified	Unclassified
+2	Eukaryota	Unclassified	Unclassified	Cryomonadida	Unclassified	Cryothecomonas	Cryothecomonas sp
+74	Eukaryota	Unclassified	Spirotrichea	Tintinnida	Metacylididae	Helicostomella	Helicostomella subulata
+3	Eukaryota	Apicomplexa	Gregarinasina	Unclassified	Unclassified	Unclassified	Unclassified
+6	Eukaryota	Unclassified	Litostomatea	Pleurostomatida	Litonotidae	Litonotus	Litonotus sp
+8437	Eukaryota	Unclassified	Dictyochophyceae	Pedinellales	Unclassified	Unknown	Unknown
+27	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Unknown	Unknown	Unknown
+84	Eukaryota	Unclassified	Dictyochophyceae	Pedinellales	Unclassified	Unclassified	Unclassified
+2	Eukaryota	Unclassified	Dinophyceae	Syndiniales	Unclassified	Unclassified	Unclassified
+36	Eukaryota	Unclassified	Unclassified	Kinetoplastida	Bodonidae	Unclassified	Unclassified
+3	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Skeletonemataceae	Skeletonema	Skeletonema sp
+4	Fungi	Basidiomycota	Ustilaginomycetes	Ustilaginales	Ustilaginaceae	Unknown	Unknown
+275	Plantae	Chlorophyta	Ulvophyceae	Ulvales	Unknown	Unknown	Unknown
+3	Eukaryota	Unclassified	Spirotrichea	Sporadotrichida	Oxytrichidae	Hemigastrostyla	Hemigastrostyla enigmatica
+16	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+473	Eukaryota	Unclassified	Litostomatea	Pleurostomatida	Litonotidae	Loxophyllum	Unknown
+2	Fungi	Ascomycota	Taphrinomycetes	Taphrinales	Taphrinaceae	Taphrina	Unknown
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium elkanii
+2	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Unclassified	Candida	Unknown
+104	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Skeletonemataceae	Skeletonema	Skeletonema menzellii
+33	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Unknown	Unknown
+102	Plantae	Chlorophyta	Ulvophyceae	Acrosiphoniales	Unclassified	Unknown	Unknown
+10	Eukaryota	Unclassified	Unclassified	Himatismenida	Unclassified	Parvamoeba	Parvamoeba rugata
+92	Eukaryota	Unclassified	Dictyochophyceae	Pedinellales	Unclassified	Pseudopedinella	Pseudopedinella elastica
+69	Plantae	Chlorophyta	Chlorophyceae	Chlamydomonadales	Chlamydomonadaceae	Microglena	Microglena monadina
+3	Eukaryota	Unclassified	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Gymnodinium	Gymnodinium catenatum
+100	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Unknown
+3	Eukaryota	Unclassified	Unclassified	Unclassified	Ancyromonadidae	Ancyromonas	Ancyromonas sigmoides
+25	Eukaryota	Unclassified	Spirotrichea	Choreotrichida	Strobilidiidae	Unknown	Unknown
+14	Eukaryota	Unclassified	Dinophyceae	Lophodiniales	Lophodiniaceae	Biecheleriopsis	Biecheleriopsis adriatica
+1024	Eukaryota	Unclassified	Unknown	Unknown	Unknown	Unknown	Unknown
+130	Eukaryota	Unclassified	Unclassified	Leptomyxida	Flabellulidae	Unknown	Unknown
+2	Eukaryota	Unclassified	Dinophyceae	Peridiniales	Pfiesteriaceae	Unknown	Unknown
+74	Eukaryota	Apicomplexa	Coccidia	Eucoccidiorida	Eimeriidae	Unclassified	Unclassified
+11	Eukaryota	Unclassified	Oomycetes	Unknown	Unknown	Unknown	Unknown
+1	Eukaryota	Unclassified	Unclassified	Unclassified	Vannellidae	Unknown	Unknown
+317	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Naviculaceae	Navicula	Navicula phyllepta
+2	Eukaryota	Unclassified	Unclassified	Leptomyxida	Flabellulidae	Unclassified	Unclassified
+29	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Ulkenia	Ulkenia sp
+9543	Eukaryota	Unclassified	Dinophyceae	Unclassified	Unclassified	Unclassified	Unclassified
+3	Bacteria	Proteobacteria	Gammaproteobacteria	Unclassified	Unclassified	Unclassified	Unclassified
+21	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Cystofilobasidium	Unknown
+3	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Scenedesmaceae	Desmodesmus	Unknown
+3	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Pichiaceae	Saturnispora	Saturnispora silvae
+2	Eukaryota	Unclassified	Raphidophyceae	Chattonellales	Chattonellaceae	Viridilobus	Viridilobus marinus
+6	Eukaryota	Unclassified	Litostomatea	Unknown	Unknown	Unknown	Unknown
+4	Eukaryota	Xanthophyceae	Unclassified	Mischococcales	Pleurochloridaceae	Monodus	Unknown
+790	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Unknown	Unknown
+5	Eukaryota	Xanthophyceae	Unclassified	Unknown	Unknown	Unknown	Unknown
+4	Eukaryota	Unclassified	Unclassified	Diplonemida	Unclassified	Diplonema	Diplonema papillatum
+34	Plantae	Chlorophyta	Unclassified	Pyramimonadales	Unclassified	Pyramimonas	Unknown
+5	Eukaryota	Unclassified	Labyrinthulomycetes	Unclassified	Thraustochytriaceae	Unclassified	Unclassified
+8	Eukaryota	Unclassified	Unclassified	Pavlovales	Pavlovaceae	Pavlova	Unknown
+541	Eukaryota	Unclassified	Heterotrichea	Heterotrichida	Stentoridae	Stentor	Unknown
+3	Eukaryota	Unclassified	Phyllopharyngea	Cyrtophorida	Unclassified	Chilodonella	Chilodonella uncinata
+92	Eukaryota	Unclassified	Oligohymenophorea	Unclassified	Zoothamniidae	Zoothamnium	Zoothamnium sp
+214	Eukaryota	Phaeophyceae	Unclassified	Ectocarpales	Ectocarpaceae	Ectocarpus	Ectocarpus siliculosus
+37073	Plantae	Chlorophyta	Ulvophyceae	Unknown	Unknown	Unknown	Unknown
+18	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora avenae
+27	Eukaryota	Bacillariophyta	Bacillariophyceae	Naviculales	Unknown	Unknown	Unknown
+2	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Stephanodiscaceae	Cyclotella	Cyclotella cf scaldensis
+2	Fungi	Chytridiomycota	Chytridiomycetes	Lobulomycetales	Lobulomycetaceae	Lobulomyces	Unknown
+512	Plantae	Chlorophyta	Unknown	Unknown	Unknown	Unknown	Unknown
+266	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Aliiroseovarius	Aliiroseovarius crassostreae
+1769	Fungi	Chytridiomycota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+4	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Alcanivoracaceae	Alcanivorax	Unknown
+8	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Unknown
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pectobacterium	Pectobacterium atrosepticum
+23	Eukaryota	Unclassified	Unclassified	Unclassified	Vannellidae	Vannella	Vannella sp
+416	Eukaryota	Unclassified	Spirotrichea	Euplotida	Euplotidae	Moneuplotes	Moneuplotes crassus
+2	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	Bradyrhizobium japonicum
+76	Eukaryota	Unclassified	Oligohymenophorea	Unclassified	Zoothamniidae	Unknown	Unknown
+3	Plantae	Chlorophyta	Chlorophyceae	Sphaeropleales	Bracteacoccaceae	Bracteacoccus	Unknown
+293	Eukaryota	Unclassified	Oligohymenophorea	Unclassified	Vorticellidae	Vorticella	Unknown
+2	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Ramularia	Ramularia endophylla
+3	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Unclassified	Rhodotorula	Rhodotorula sp
+7	Eukaryota	Picozoa	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+49	Eukaryota	Unclassified	Cryptophyta	Pyrenomonadales	Chroomonadaceae	Chroomonas	Unknown
+6	Eukaryota	Unclassified	Cryptophyta	Cryptomonadales	Hemiselmidaceae	Hemiselmis	Unknown
+8	Eukaryota	Unclassified	Ichthyosporea	Dermocystida	Unclassified	Unknown	Unknown
+40	Eukaryota	Unclassified	Dinophyceae	Gymnodiniales	Gymnodiniaceae	Nusuttodinium	Nusuttodinium poecilochroum
+184	Eukaryota	Unclassified	Chrysophyceae	Unclassified	Unclassified	Unclassified	Unclassified
+3	Eukaryota	Unclassified	Oligohymenophorea	Philasterida	Unknown	Unknown	Unknown
+16	Fungi	Ascomycota	Unclassified	Unclassified	Unclassified	Tetracladium	Tetracladium marchalianum
+2	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Geotrichum	Geotrichum candidum
+72	Fungi	Ascomycota	Lecanoromycetes	Caliciales	Caliciaceae	Unknown	Unknown
+9	Eukaryota	Unclassified	Unclassified	Unclassified	Ebriidae	Ebria	Ebria tripartita
+5	Eukaryota	Unclassified	Unclassified	Euglyphida	Ovulinatidae	Ovulinata	Ovulinata parva
+145	Eukaryota	Unclassified	Unclassified	Kinetoplastida	Bodonidae	Unknown	Unknown
+11	Eukaryota	Unclassified	Unclassified	Kinetoplastida	Bodonidae	Procryptobia	Procryptobia sorokini
+4	Eukaryota	Unclassified	Unclassified	Thaumatomonadida	Thaumatomastigidae	Unknown	Unknown
+4	Eukaryota	Euglenida	Unclassified	Euglenales	Euglenaceae	Euglena	Euglena sp
+5	Eukaryota	Unclassified	Cryptophyta	Pyrenomonadales	Pyrenomonadaceae	Rhodomonas	Rhodomonas sp
+163	Eukaryota	Unclassified	Unclassified	Unclassified	Unknown	Unknown	Unknown
+479	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas sp
+6	Fungi	Chytridiomycota	Chytridiomycetes	Chytridiales	Chytridiaceae	Chytridium	Chytridium polysiphoniae
+16	Eukaryota	Bacillariophyta	Coscinodiscophyceae	Thalassiosirales	Thalassiosiraceae	Thalassiosira	Thalassiosira pseudonana
+16	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Unknown	Unknown
+76	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Neophaeosphaeria	Neophaeosphaeria filamentosa
+4	Eukaryota	Unclassified	Unclassified	Euglyphida	Cyphoderiidae	Cyphoderia	Cyphoderia ampulla

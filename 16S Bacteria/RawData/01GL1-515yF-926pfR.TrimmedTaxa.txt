@@ -1,0 +1,39 @@
+21	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Friedmanniella	Friedmanniella sp
+93	Bacteria	Actinobacteria	Actinobacteria	Unknown	Unknown	Unknown	Unknown
+3	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus
+96	Bacteria	Proteobacteria	Gammaproteobacteria	Unknown	Unknown	Unknown	Unknown
+2	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Amnibacterium	Unknown
+6	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella	Shewanella sp
+8	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Alteromonadaceae	Glaciecola	Glaciecola nitratireducens
+9	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp
+235	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis	Sphingopyxis sp
+5	Bacteria	Verrucomicrobia	Unknown	Unknown	Unknown	Unknown	Unknown
+44	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas	Roseomonas aerilata
+245	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Unknown	Unknown	Unknown
+3355	Bacteria	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+96	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Unknown	Unknown
+13	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Unclassified	Unclassified	Unclassified
+475	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium	Methylobacterium sp
+1	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudorhodobacter	Pseudorhodobacter sp
+246	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Unknown	Unknown
+25	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Actinomycetospora	Unknown
+4	Bacteria	Bacteroidetes	Unknown	Unknown	Unknown	Unknown	Unknown
+47	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Carnobacterium	Carnobacterium sp
+10	Bacteria	Actinobacteria	Rubrobacteria	Rubrobacterales	Unclassified	Unclassified	Unclassified
+957	Bacteria	Cyanobacteria	Unclassified	Prochlorales	Prochlorococcaceae	Prochlorococcus	Prochlorococcus sp
+12	Bacteria	Proteobacteria	Deltaproteobacteria	Unclassified	Unclassified	Unclassified	Unclassified
+1546	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Muricauda	Muricauda sp
+40	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella	Granulicatella sp
+530	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+2415	Bacteria	Proteobacteria	Alphaproteobacteria	Pelagibacterales	Pelagibacteraceae	Candidatus Pelagibacter	Candidatus Pelagibacter sp
+1535	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Burkholderia	Burkholderia sp
+2403	Bacteria	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+41	Bacteria	Actinobacteria	Actinobacteria	Geodermatophilales	Geodermatophilaceae	Blastococcus	Unknown
+36	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium	Unknown
+18	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Hyphomonadaceae	Hyphomonas	Hyphomonas sp
+117	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Unknown	Unknown	Unknown
+181	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Unknown	Unknown
+16	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia	Devosia sp
+14	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus plantarum
+5	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Antarctobacter	Antarctobacter sp
+194	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae	Lewinella	Lewinella agarilytica

@@ -1,0 +1,7 @@
+9814	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium boydii
+315	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Fomitopsidaceae	Fomitopsis	Fomitopsis pinicola
+13942	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor
+26	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium sp
+33000	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+149	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium sp
+20	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium digitatum

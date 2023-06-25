@@ -1,0 +1,87 @@
+3	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Parastagonospora	Parastagonospora nodorum
+4	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Cucurbitariaceae	Pyrenochaeta	Pyrenochaeta sp
+1	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Pseudocercospora	Pseudocercospora sp
+7	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Unclassified	Unknown	Unknown
+22	Fungi	Basidiomycota	Tremellomycetes	Unknown	Unknown	Unknown	Unknown
+6	Fungi	Ascomycota	Eurotiomycetes	Chaetothyriales	Unclassified	Unclassified	Unclassified
+4	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Trametes	Trametes versicolor
+6	Fungi	Basidiomycota	Cystobasidiomycetes	Unclassified	Unclassified	Symmetrospora	Unknown
+2	Fungi	Basidiomycota	Agaricomycetes	Auriculariales	Exidiaceae	Unknown	Unknown
+55	Fungi	Ascomycota	Dothideomycetes	Unclassified	Unclassified	Unclassified	Unclassified
+3	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Mycosphaerella	Unknown
+9	Fungi	Ascomycota	Sordariomycetes	Unknown	Unknown	Unknown	Unknown
+202	Fungi	Ascomycota	Unknown	Unknown	Unknown	Unknown	Unknown
+7	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sporulosa
+2	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Unclassified	Acremonium	Acremonium sp
+6	Fungi	Ascomycota	Sordariomycetes	Sordariales	Sordariaceae	Sordaria	Unknown
+26	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Devriesia	Devriesia pseudoamericana
+7	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Unknown	Unknown
+3	Fungi	Ascomycota	Leotiomycetes	Unclassified	Unclassified	Unclassified	Unclassified
+4	Fungi	Ascomycota	Leotiomycetes	Helotiales	Chaetomellaceae	Pilidium	Pilidium concavum
+47	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Unclassified	Unclassified	Unclassified
+2	Fungi	Mucoromycota	Glomeromycetes	Glomerales	Glomeraceae	Unclassified	Unclassified
+5	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium boydii
+53597	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+11	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula sp
+15	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Leucosporidiaceae	Leucosporidium	Leucosporidium intermedium
+2	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Tremellaceae	Tremella	Tremella sp
+34	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Erythrobasidium	Erythrobasidium hasegawianum
+3	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Unknown
+8	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Unknown	Unknown
+6	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	Pestalotiopsis sp
+7	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Unclassified	Eucasphaeria	Eucasphaeria capensis
+128	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Unknown	Unknown	Unknown
+72	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Epicoccum	Epicoccum nigrum
+13	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Unclassified	Unclassified	Unclassified
+54	Fungi	Ascomycota	Leotiomycetes	Helotiales	Unclassified	Unclassified	Unclassified
+3	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Montagnula	Unknown
+9	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Unclassified	Unclassified	Unclassified
+2	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Clavicipitaceae	Metarhizium	Metarhizium anisopliae
+11	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Rhynchogastremataceae	Papiliotrema	Papiliotrema flavescens
+2	Fungi	Basidiomycota	Cystobasidiomycetes	Cystobasidiales	Cystobasidiaceae	Cystobasidium	Cystobasidium sp
+26	Fungi	Ascomycota	Sordariomycetes	Glomerellales	Plectosphaerellaceae	Plectosphaerella	Plectosphaerella cucumerina
+17	Fungi	Unknown	Unknown	Unknown	Unknown	Unknown	Unknown
+3	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Neocatenulostroma	Neocatenulostroma microsporum
+9	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Unknown	Unknown
+10	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor
+232	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Unknown	Unknown	Unknown
+5	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Unknown	Unknown
+5	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Cordycipitaceae	Beauveria	Beauveria bassiana
+3	Fungi	Basidiomycota	Tremellomycetes	Cystofilobasidiales	Cystofilobasidiaceae	Unclassified	Unclassified
+3	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces pinophilus
+2	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Stachybotryaceae	Myrothecium	Myrothecium sp
+3	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Cryptococcaceae	Cryptococcus	Cryptococcus sp
+3	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Unknown	Unknown
+35	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria halima
+2	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Unclassified	Unclassified	Unclassified
+5	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Leptosphaeriaceae	Unclassified	Unclassified
+4	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Ilyonectria	Ilyonectria rufa
+7	Fungi	Ascomycota	Sordariomycetes	Trichosphaeriales	Trichosphaeriaceae	Nigrospora	Nigrospora sp
+2	Fungi	Ascomycota	Saccharomycetes	Saccharomycetales	Dipodascaceae	Galactomyces	Galactomyces candidus
+59	Fungi	Basidiomycota	Microbotryomycetes	Leucosporidiales	Unknown	Unknown	Unknown
+33	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Fusarium	Fusarium sp
+29	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria sp
+4	Fungi	Basidiomycota	Cystobasidiomycetes	Unclassified	Unclassified	Symmetrospora	Symmetrospora gracilis
+2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Massarinaceae	Stagonospora	Unknown
+18	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Unclassified	Unclassified
+2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria sp
+4	Fungi	Basidiomycota	Cystobasidiomycetes	Unclassified	Unclassified	Buckleyzyma	Buckleyzyma aurantiaca
+1	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Penicillium	Penicillium sp
+8	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Unknown	Unknown
+8	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Unknown
+48	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Mycosphaerella	Mycosphaerella sp
+20	Fungi	Basidiomycota	Unknown	Unknown	Unknown	Unknown	Unknown
+1	Fungi	Ascomycota	Sordariomycetes	Xylariales	Amphisphaeriaceae	Unknown	Unknown
+8	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Cercospora	Unknown
+2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Coniothyriaceae	Coniothyrium	Coniothyrium sp
+135	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Septoriella	Septoriella phragmitis
+4	Fungi	Ascomycota	Sordariomycetes	Hypocreales	Nectriaceae	Unknown	Unknown
+7	Fungi	Ascomycota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+5	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula mucilaginosa
+85	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Unknown	Unknown
+92	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma sp
+4	Fungi	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+4	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Mycosphaerellaceae	Paramycosphaerella	Paramycosphaerella brachystegiae
+7	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Cladosporiaceae	Cladosporium	Cladosporium cladosporioides
+2	Fungi	Ascomycota	Sordariomycetes	Coniochaetales	Coniochaetaceae	Coniochaeta	Unknown
+3	Fungi	Ascomycota	Leotiomycetes	Helotiales	Unknown	Unknown	Unknown

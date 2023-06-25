@@ -1,0 +1,15 @@
+1	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymosphaeriaceae	Paraphaeosphaeria	Paraphaeosphaeria sp
+2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Neoascochyta	Neoascochyta exitialis
+6	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Didymellaceae	Phoma	Phoma sp
+6	Fungi	Ascomycota	Unclassified	Unclassified	Unclassified	Unclassified	Unclassified
+9	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeriopsis	Phaeosphaeriopsis sp
+100	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Phaeothecoidea	Phaeothecoidea melaleuca
+4	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor
+4	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Phaeosphaeriaceae	Phaeosphaeria	Phaeosphaeria halima
+70684	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+2	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Alternaria	Alternaria sp
+3	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Erythrobasidium	Erythrobasidium hasegawianum
+2	Fungi	Basidiomycota	Agaricomycetes	Polyporales	Polyporaceae	Trametes	Trametes versicolor
+2	Fungi	Ascomycota	Sordariomycetes	Xylariales	Sporocadaceae	Pestalotiopsis	Pestalotiopsis sp
+1	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Trichocomaceae	Talaromyces	Talaromyces pinophilus
+2	Fungi	Basidiomycota	Tremellomycetes	Tremellales	Unclassified	Unclassified	Unclassified

@@ -1,0 +1,13 @@
+2688	Fungi	Basidiomycota	Cystobasidiomycetes	Erythrobasidiales	Erythrobasidiaceae	Unclassified	Unclassified
+684	Fungi	Basidiomycota	Tremellomycetes	Filobasidiales	Filobasidiaceae	Naganishia	Naganishia globosa
+650	Fungi	Ascomycota	Dothideomycetes	Pleosporales	Pleosporaceae	Curvularia	Curvularia australiensis
+73	Fungi	Basidiomycota	Agaricomycetes	Agaricales	Physalacriaceae	Strobilurus	Strobilurus trullisatus
+1505	Fungi	Ascomycota	Lecanoromycetes	Unclassified	Unclassified	Unclassified	Unclassified
+17313	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus versicolor
+109	Fungi	Ascomycota	Dothideomycetes	Dothideales	Saccotheciaceae	Aureobasidium	Aureobasidium pullulans
+32780	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit	No Hit
+848	Fungi	Ascomycota	Dothideomycetes	Capnodiales	Teratosphaeriaceae	Catenulostroma	Catenulostroma hermanusense
+2	Fungi	Ascomycota	Sordariomycetes	Trichosphaeriales	Trichosphaeriaceae	Nigrospora	Nigrospora sp
+8838	Fungi	Basidiomycota	Microbotryomycetes	Sporidiobolales	Sporidiobolaceae	Rhodotorula	Rhodotorula sp
+924	Fungi	Ascomycota	Eurotiomycetes	Eurotiales	Aspergillaceae	Aspergillus	Aspergillus niveoglaucus
+7835	Fungi	Ascomycota	Sordariomycetes	Microascales	Microascaceae	Scedosporium	Scedosporium boydii
